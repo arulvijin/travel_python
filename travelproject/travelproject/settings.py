@@ -25,7 +25,7 @@ SECRET_KEY = 'r2^yak#=35bj#@6ent*@5-2%4k*so#4iw%3ws2wo)t_q5qt4^1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [tourapp.pythonanywhere.com]
 
 
 # Application definition
